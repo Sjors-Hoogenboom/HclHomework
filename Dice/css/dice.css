@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(to right, #fc0065, #78ff01);
+}
+
+.wrapper {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  margin: 2rem;
+  font-size: 80px;
+  color: rgb(208, 214, 218);
+}
+
+.dice-area {
+  margin: 0px 50px;
+  text-align: center;
+}
+
+p {
+  font-size: 50px;
+  color: rgb(208, 214, 218);
+}
+
+img{
+  width: 320px;
+}
